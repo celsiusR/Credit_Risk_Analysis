@@ -59,7 +59,7 @@ The  Easy Ensemble classifier had the best geometric mean score at 93% v/s 78% f
 
 
 Based on the results of all the six models the EasyEnsembleClassifier model yielded the best results with an accuracy of 93.2%, and a precision rate of 9%. The sensitivity (or recall ) rate was the highest at 94%. Prediction for the Low Risk" was also the highest with the sensitivity at 94% and the F1 score at 97%. 
-Recommendation - The EasyEnsembleClassifier model ranks as the best model suited for this type of analysis . 
+<br>Recommendation - The EasyEnsembleClassifier model ranks as the best model suited for this type of analysis . 
 
 
 
